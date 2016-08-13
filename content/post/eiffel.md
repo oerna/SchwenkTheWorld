@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2016-08-02T10:57:25+02:00"
+date = "2010-08-22T10:57:25+02:00"
 image = "/img/schwenk/SchwenkDEiffel.jpg"
 location = []
 tags = ["Schwenk","Video"]
