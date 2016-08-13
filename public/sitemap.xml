@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-08-05T14:10:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/reunion/</loc>
+    <lastmod>2016-08-05T14:10:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/malaysia/</loc>
+    <lastmod>2016-08-05T11:10:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/lapaz/</loc>
+    <lastmod>2016-08-05T11:09:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/marseille/</loc>
+    <lastmod>2016-08-05T11:09:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/montblanc/</loc>
+    <lastmod>2016-08-05T11:09:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/schwenkok/</loc>
+    <lastmod>2016-08-05T11:09:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/chill/</loc>
+    <lastmod>2016-08-05T11:08:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/montreal/</loc>
+    <lastmod>2016-08-05T11:08:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/seychelles/</loc>
+    <lastmod>2016-08-05T11:08:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/the_revenge/</loc>
+    <lastmod>2016-08-05T11:08:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/bonaberi/</loc>
+    <lastmod>2016-08-05T10:53:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/florentine/</loc>
+    <lastmod>2016-08-02T14:18:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/eiffel/</loc>
+    <lastmod>2016-08-02T10:57:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/monkeyisland/</loc>
+    <lastmod>2016-08-02T08:27:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/thereturnoftheschwenker/</loc>
+    <lastmod>2010-01-21T08:29:39+02:00</lastmod>
+  </url>
+  
+</urlset>

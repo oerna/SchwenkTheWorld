@@ -1,0 +1,23 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Schwenk The World"
+description = "All about schwenking"
+theme = "hugo-theme-blueberry-detox"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[[menu.main]]
+    name = "about hugo"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "getting started"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    identifier = "start"
+    url = "/getting-started/"

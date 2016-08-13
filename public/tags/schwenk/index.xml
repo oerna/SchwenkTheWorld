@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schwenk on Schwenk The World</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/schwenk/</link>
+    <description>Recent content in Schwenk on Schwenk The World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Aug 2016 10:57:25 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/schwenk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Schwenk D’Eiffel</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/eiffel/</link>
+      <pubDate>Tue, 02 Aug 2016 10:57:25 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/eiffel/</guid>
+      <description>&lt;p&gt;Invited to Paris from our friends Romain and Antoine, we took the chance to Schwenk Paris.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/14340456&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
