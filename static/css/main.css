@@ -29,6 +29,12 @@ body:after{clear:both}
  overflow: hidden;
 margin-bottom: 20px;
 }
+@media (max-width: 800px){.crop {
+ height: 200px;
+ width: 100%;
+ overflow: hidden;
+margin-bottom: 20px;
+}}
 .crop img {
  height: auto;
  width: 800px;
