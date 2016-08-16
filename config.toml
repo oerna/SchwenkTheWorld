@@ -10,14 +10,27 @@ theme = "hugo-theme-blueberry-detox"
 
 
 [[menu.main]]
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "about"
-    url = "/about/"
+    name = "our mission I"
+    weight = -120
+    identifier = "our-mission"
+    url = "/our-mission"
 [[menu.main]]
-    name = "getting started"
-    pre = "<i class='fa fa-road'></i>"
+    name = "video I"
+    weight = -110
+    identifier = "video"
+    url = "/tags/video"
+[[menu.main]]
+    name = "schwenks I"
     weight = -100
-    identifier = "start"
-    url = "/getting-started/"
+    identifier = "schwenks"
+    url = "/tags/schwenks"
+[[menu.main]]
+    name = "schwenking I"
+    weight = -100
+    identifier = "schwenking"
+    url = "/schwenking"
+[[menu.main]]
+    name = "get a schwenker"
+    weight = -90
+    identifier = "get-a-schwenker"
+    url = "/get-a-schwenker"
