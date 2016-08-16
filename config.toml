@@ -15,16 +15,6 @@ theme = "hugo-theme-blueberry-detox"
     identifier = "our-mission"
     url = "/our-mission"
 [[menu.main]]
-    name = "video I"
-    weight = -110
-    identifier = "video"
-    url = "/tags/video"
-[[menu.main]]
-    name = "schwenks I"
-    weight = -100
-    identifier = "schwenks"
-    url = "/tags/schwenks"
-[[menu.main]]
     name = "schwenking I"
     weight = -100
     identifier = "schwenking"
