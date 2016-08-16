@@ -3,7 +3,7 @@ categories = []
 date = "2011-02-25T10:53:36+02:00"
 image = "/img/schwenk/bonaberi.jpg"
 location = []
-tags = []
+tags = "Africa"
 title = "SCHWENK BONABERI (Douala, Cameroon)"
 typ = []
 

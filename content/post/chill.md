@@ -3,7 +3,7 @@ categories = []
 date = "2011-09-10T11:08:56+02:00"
 image = "/img/schwenk/chill.jpg"
 location = []
-tags = []
+tags = ["video"]
 title = "Red Bull Chill N’ Schwenk"
 typ = []
 
